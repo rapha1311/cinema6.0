@@ -1,0 +1,100 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "titulo": "Terror"
+        },
+        {
+            "id": 2,
+            "titulo": "Comedia"
+        },
+        {
+            "id": 3,
+            "titulo": "Ação"
+        }
+    ],
+    "filmes": [
+        {
+            "id": 1,
+            "descricao": "Adao Negro",
+            "duracao": "2h 00m",
+            "ano": "2022",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/açao/adao.jpg",
+            "categoriaId": 3
+        },
+        {
+            "id": 2,
+            "descricao": "Anjos Da Lei",
+            "duracao": "1h 55m",
+            "ano": "2023",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/comedia/anjosdalei.jpg",
+            "categoriaId": 2
+        },
+        {
+            "id": 3,
+            "descricao": "Ate que a sorte nos separe",
+            "duracao": "1h 35m",
+            "ano": "2012",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/comedia/atequeasorte3.jpg",
+            "categoriaId": 2
+        },
+        {
+            "id": 4,
+            "descricao": "Gente Grande 2",
+            "duracao": "3h 00m",
+            "ano": "2022",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/comedia/gentegrande2.jpg",
+            "categoriaId": 2
+        },
+        {
+            "id": 5,
+            "descricao": "Homens de Preto",
+            "duracao": "2h 20m",
+            "ano": "2018",
+            "indicacao": "14 anos",
+            "imagePath": "/assets/img/açao/mib.jpg",
+            "categoriaId": 3
+        },
+        {
+            "id": 6,
+            "descricao": "Panico 6",
+            "duracao": "2h 14m",
+            "ano": "2018",
+            "indicacao": "10 anos",
+            "imagePath": "/assets/img/terror/panico.jpg",
+            "categoriaId": 1
+        },
+        {
+            "id": 7,
+            "descricao": "Sexta Feira 13",
+            "duracao": "2h 00m",
+            "ano": "2021",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/terror/sexta13.jpg",
+            "categoriaId": 1
+        },
+        {
+            "id": 9,
+            "descricao": "Sorria",
+            "duracao": "1h 42m",
+            "ano": "2012",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/terror/sorria.jpg",
+            "categoriaId": 1
+        },
+        {
+            "id": 10,
+            "descricao": "Velozes e Furiosos 10",
+            "duracao": "2h 05m",
+            "ano": "2014",
+            "indicacao": "16 anos",
+            "imagePath": "/assets/img/açao/velozes10.jpg",
+            "categoriaId": 3
+        }
+        
+    ]
+}            

@@ -1,0 +1,10 @@
+.banner {
+    text-align: center;
+    margin-top: 60px;
+  }
+  
+  .filmes-em-destaque {
+    display: flex;
+    justify-content: space-between;
+    margin: 180px;
+  }

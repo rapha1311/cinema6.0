@@ -1,0 +1,50 @@
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 20px;
+      }
+      .categorias {
+        text-align: center;
+        margin-bottom: 30px;
+      }
+    
+      nav ul li {
+        display: inline;
+        margin-right: 10px;
+      }
+      
+      nav ul li a {
+        color: #fff;
+        text-decoration: none;
+        background-color: gray;
+        color: black;
+        padding: 10px;
+        text-align: center;
+    
+      }
+      
+      main {
+        margin: 20px;
+      }
+      
+      .filmes-em-destaque {
+        display: flex;
+        justify-content: space-between;
+        margin-left: 20px;
+      }
+      
+      .filme {
+        text-align: center;
+        width: 45%;
+        margin-bottom: 190px;
+      
+      }
+    
+      .filme img{
+        margin-right: 100px;
+        width: 300px;
+        height: 480px;
+        margin-left: 100px;
+      }
+      
+    

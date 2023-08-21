@@ -1,0 +1,41 @@
+main {
+    margin: 0px;
+    background-image: url("/assets/img/movieee.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .banner {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .filmes-em-destaque {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+  }
+
+  .movies {
+    text-align: center;
+    width: 35%;
+    margin-bottom: 5%;
+    margin-right: 20px;
+    overflow: hidden;
+    color: red;
+  }
+
+  .movies img{
+    margin-right: 100px;
+    width: 300px;
+    height: 400px;;
+    display: flex; /* Necessário para o margin funcionar */
+    margin-left: auto; 
+    margin-right: auto; 
+    
+  }
+  
+
+
+
+  
